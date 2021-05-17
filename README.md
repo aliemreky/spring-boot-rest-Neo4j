@@ -1,4 +1,4 @@
-# SPRING BOOT REST + JWT + JPA + NEO4J GRAPH DB
+# Spring Boot Rest+ JWT + JPA + Neo4J Graph DB
 
 
 ## Installation Steps
